@@ -47,7 +47,7 @@ html, body {
     border-color: #E7E7E7;
 }
 .navbar-default .navbar-nav > li > a {
-    color: blue;
+    color: #777777;
 }
 
 .navbar-default .navbar-nav > .active > a,
@@ -75,7 +75,7 @@ html, body {
   font-size: 20px;
   padding-right: 5px;
   padding-top: 15px;
-  color: red;
+  color: #777777;
 }
 
 
