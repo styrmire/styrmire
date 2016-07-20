@@ -26,4 +26,13 @@ html, body {
     height:100%;
 }
 
+/* Social Media Bar */
+#ul-style{
+    list-style-type: none;
+}
+
+.li-style {
+  display: inline;
+}
+
 
