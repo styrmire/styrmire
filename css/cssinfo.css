@@ -2,7 +2,6 @@
 #about {
   background-color: blue;
   text-align: center;
-  padding-top: 50px;
   min-height: 100%;
 }
 
@@ -24,6 +23,7 @@
 
 html, body { 
     height:100%;
+    padding-top: 50px;
 }
 
 
