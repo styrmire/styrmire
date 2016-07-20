@@ -28,6 +28,9 @@ html, body {
   background-size: cover;
   color: white;
   text-align: left;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
 
 #contact {
