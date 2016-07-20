@@ -18,8 +18,9 @@ html, body {
 
 #about {
   background-color: white;
-  height: 750px;
+  height: 300px;
   text-align: center;
+  padding-top: 30px;
 }
 
 #portfolio {
@@ -56,4 +57,10 @@ html, body {
   font-size: 20px;
   padding-right: 5px;
   padding-top: 15px;
+}
+
+/* Texts */
+
+#about-paragraph {
+    padding-top: 10px;
 }
