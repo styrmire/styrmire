@@ -8,7 +8,7 @@ html, body {
 /* Sections */
 
 #about {
-  background-color: blue;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/7/77/Pebbleswithquarzite.jpg") no-repeat center fixed;
   text-align: center;
   min-height: 100%;
   padding-top: 50px;
