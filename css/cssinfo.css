@@ -75,8 +75,10 @@ html, body {
   margin-bottom: 15px;
 }
 
+/* H2 */
+
 .section-left-h2 {
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     padding-left: 5px;
 }
