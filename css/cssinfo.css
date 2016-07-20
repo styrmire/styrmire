@@ -32,8 +32,9 @@ html, body {
 
 #contact {
   background-color: white;
-  height: 750px;
   text-align: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
 }
 
 /* Navbar */
