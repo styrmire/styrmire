@@ -1,18 +1,18 @@
 
 #about {
-  background-color: silver;
+  background-color: #F8F8F8;
   height: 500px;
   text align: center;
 }
 
 #portfolio {
-  background-color: white;
+  background-color: #F83F98;
   height: 500px;
   text align: center;
 }
 
 #contact {
-  background-color: grey;
+  background-color: yellow;
   height: 500px;
   text align: center;
 }
