@@ -63,3 +63,17 @@ html, body {
 #about-paragraph {
     padding-top: 10px;
 }
+
+/* Portfolio */
+
+.row .thumbnail {
+    border-color: #72504F;
+}
+
+.row:hover .thumbnail:hover {
+  border-color: #72504F;
+}
+
+.thumb {
+  margin-bottom: 15px;
+}
