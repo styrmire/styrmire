@@ -3,8 +3,6 @@
   background-color: blue;
   text-align: center;
   margin-top: 50px;
-  height: 100%;
-  width: 960px;
 }
 
 #portfolio {
@@ -21,8 +19,6 @@
 
 .navbar {
   margin-bottom: 0px;
-  width: 960px;
-  height: 150px;
 }
 
 html, body { 
