@@ -5,6 +5,14 @@ html, body {
     height:100%;
 }
 
+footer {
+  background-color: #F8F8F8;
+  padding-top: 15px;
+  color: #777777;
+  text-align: center;
+}
+
+
 /* Sections */
 
 #home {
