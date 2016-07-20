@@ -2,19 +2,20 @@
 #about {
   background-color: blue;
   height: 500px;
-  text align: center;
+  text-align: center;
+  margin-top: 50px;
 }
 
 #portfolio {
   background-color: white;
   height: 500px;
-  text align: center;
+  text-align: center;
 }
 
 #contact {
   background-color: yellow;
   height: 500px;
-  text align: center;
+  text-align: center;
 }
 
 .navbar {
