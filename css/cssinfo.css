@@ -67,11 +67,8 @@ html, body {
 /* Portfolio */
 
 .row .thumbnail {
-    border-color: white;
-}
-
-.row:hover .thumbnail:hover {
-  border-color: white;
+    border: 0 none;
+    box-shadow: none;
 }
 
 .thumb {
