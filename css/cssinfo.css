@@ -58,12 +58,6 @@ html, body {
   padding-top: 15px;
 }
 
-/* Texts */
-
-#about-paragraph {
-    padding-top: 10px;
-}
-
 /* Portfolio */
 
 .row .thumbnail {
@@ -75,7 +69,14 @@ html, body {
   margin-bottom: 15px;
 }
 
-/* H2 */
+/* Texts */
+
+#about-paragraph {
+    padding-top: 10px;
+}
+
+
+/* H1 & H2 */
 
 .section-left-h2 {
     padding-top: 10px;
@@ -85,4 +86,9 @@ html, body {
 
 h1 {
     font-family: "Noticia Text", serif;
+}
+
+
+.vertically-center {
+    padding-top: 50%;
 }
