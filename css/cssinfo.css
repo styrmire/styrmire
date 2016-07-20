@@ -68,12 +68,10 @@ html, body {
 
 .row .thumbnail {
     border-color: white;
-    opacity: 0;
 }
 
 .row:hover .thumbnail:hover {
   border-color: white;
-  opacity: 0;
 }
 
 .thumb {
