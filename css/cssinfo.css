@@ -54,6 +54,7 @@ html, body {
 
 #opaque-side {
     background-color: White;
+    min-height: 100%;
 }
 
 
