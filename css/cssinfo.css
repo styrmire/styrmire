@@ -3,6 +3,7 @@
   background-color: blue;
   text-align: center;
   min-height: 100%;
+  padding-top: 50px;
 }
 
 #portfolio {
@@ -23,7 +24,6 @@
 
 html, body { 
     height:100%;
-    padding-top: 50px;
 }
 
 
