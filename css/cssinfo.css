@@ -1,4 +1,12 @@
 
+/* Basic */
+
+html, body { 
+    height:100%;
+}
+
+/* Sections */
+
 #about {
   background-color: blue;
   text-align: center;
@@ -18,12 +26,10 @@
   text-align: center;
 }
 
+/* Navbar */
+
 .navbar {
   margin-bottom: 0px;
-}
-
-html, body { 
-    height:100%;
 }
 
 /* Social Media Bar */
