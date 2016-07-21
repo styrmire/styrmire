@@ -12,7 +12,6 @@ footer {
   text-align: center;
 }
 
-
 /* Sections */
 
 #home {
@@ -75,7 +74,6 @@ footer {
     color: #555555;
 }
 
-
 /* Social Media Bar */
 
 #ul-style {
@@ -93,7 +91,6 @@ footer {
   color: #777777;
 }
 
-
 /* Portfolio */
 
 .row .thumbnail {
@@ -110,7 +107,6 @@ footer {
 #about-paragraph {
     padding-top: 10px;
 }
-
 
 /* H1, H2 & p */
 
@@ -157,9 +153,6 @@ a:link {
     text-decoration: none;
     color: black;
 }
-
-
-
 
 
 
